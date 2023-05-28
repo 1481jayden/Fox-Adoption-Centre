@@ -16,4 +16,5 @@ Then, run the python script!
 # SUPER IMPORTANT NOTE
 This project is currently in its developing phases, and there may be issues with the code. Kindly report them to me, and I will have them fixed!
 
+Please Star this project if you like it, it helps a lot!\n
 *Thank you and have fun~*
